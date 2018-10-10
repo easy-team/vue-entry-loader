@@ -1,3 +1,13 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/hubcarl/vue-entry-loader/compare/1.0.0...1.0.1) (2018-10-10)
+
+
+### Bug Fixes
+
+* windows path error ([1ca1beb](https://github.com/hubcarl/vue-entry-loader/commit/1ca1beb))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/hubcarl/vue-entry-loader/compare/0.1.0...1.0.0) (2018-09-17)
 

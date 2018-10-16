@@ -1,7 +1,7 @@
 {
   "name": "vue-entry-loader",
-  "version": "1.0.1",
-  "description": "webpack vue entry loader",
+  "version": "1.1.0",
+  "description": "webpack vue entry initialization template code",
   "keywords": [
     "webpack",
     "vue",

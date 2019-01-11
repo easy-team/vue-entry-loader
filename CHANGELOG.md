@@ -1,3 +1,13 @@
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/hubcarl/vue-entry-loader/compare/1.1.1...1.1.2) (2019-01-11)
+
+
+### Bug Fixes
+
+* https://github.com/easy-team/vue-entry-loader/issues/1 ([8fcc399](https://github.com/hubcarl/vue-entry-loader/commit/8fcc399))
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/hubcarl/vue-entry-loader/compare/1.1.0...1.1.1) (2019-01-11)
 

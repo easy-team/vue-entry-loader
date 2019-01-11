@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/hubcarl/vue-entry-loader/compare/1.1.0...1.1.1) (2019-01-11)
+
+
+### Bug Fixes
+
+* optimize css and js build order ([7f846b4](https://github.com/hubcarl/vue-entry-loader/commit/7f846b4))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/hubcarl/vue-entry-loader/compare/1.0.1...1.1.0) (2018-10-16)
 

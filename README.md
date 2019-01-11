@@ -154,7 +154,7 @@ module.exports = {
 
 ## Feature
 
-### Inject Dynamic Template Code
+### Dynamic Inject Template Code
 
 ```js
 import codeSegment from '${templateFile}'
@@ -162,7 +162,7 @@ codeSegment(Vue);
 ```
 
 - Egg Project will inject the custom template code into the location above `${codeSegment}` when the file `app/web/framework/entry/template.js` exists
-- Non-Project will inject the custom template code into the location above `${codeSegment}` when the file `src/framework/entry/template.js` exists
+- Non Egg Project will inject the custom template code into the location above `${codeSegment}` when the file `src/framework/entry/template.js` exists
 - The `entry/template.js` template file has the following constraints: 
 
     - import path must be absolute path, you can use webpack alias set
@@ -182,7 +182,7 @@ export default function(Vue) {
 
 ### Vue Entry File Initialization Hook Supprt
 
-support `hook.render` method for custom logic, such common component and login initialization
+support `hook.render` method for custom logic, such common component and logic initialization
 
 ```js
 export default {

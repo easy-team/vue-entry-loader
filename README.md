@@ -180,7 +180,7 @@ export default function(Vue) {
 }
 ```
 
-### Vue Entry File Initialization Hook Supprt
+### Vue Entry File Initialization Hook Support
 
 support `hook.render` method for custom logic, such common component and logic initialization
 

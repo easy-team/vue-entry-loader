@@ -1,3 +1,12 @@
+## [1.1.3](https://github.com/hubcarl/vue-entry-loader/compare/1.1.2...1.1.3) (2019-07-27)
+
+
+### Bug Fixes
+
+* vue hydrate for server sider render and client render ([d78b69b](https://github.com/hubcarl/vue-entry-loader/commit/d78b69b))
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/hubcarl/vue-entry-loader/compare/1.1.1...1.1.2) (2019-01-11)
 

@@ -10,7 +10,8 @@ module.exports = function(source) {
   if (options.templateFile) {
     // fix windows path error
     const templateFile = options.templateFile.replace(/\\/g, '\\\\');
-    config.codeSegment = `import codeSegment from '${templateFile}'
+    const templateFilePath = path.resolve(this.rootContext, templateFile)
+    config.codeSegment = `import codeSegment from '${templateFilePath}'
     codeSegment(Vue);`;
   }
   const loader = this.target === 'node' ? node : web;

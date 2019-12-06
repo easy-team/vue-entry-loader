@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/hubcarl/vue-entry-loader/compare/1.1.3...1.1.4) (2019-12-06)
+
+
+### Bug Fixes
+
+* use templateFile relative path ([9659851](https://github.com/hubcarl/vue-entry-loader/commit/9659851))
+
+
+
 ## [1.1.3](https://github.com/hubcarl/vue-entry-loader/compare/1.1.2...1.1.3) (2019-07-27)
 
 

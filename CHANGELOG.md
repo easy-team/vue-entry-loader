@@ -1,3 +1,13 @@
+<a name="1.1.5"></a>
+## [1.1.5](https://github.com/hubcarl/vue-entry-loader/compare/1.1.4...1.1.5) (2019-12-27)
+
+
+### Bug Fixes
+
+* cannot show fullpath in build file ([0cf954e](https://github.com/hubcarl/vue-entry-loader/commit/0cf954e))
+
+
+
 ## [1.1.4](https://github.com/hubcarl/vue-entry-loader/compare/1.1.3...1.1.4) (2019-12-06)
 
 

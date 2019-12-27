@@ -1,12 +1,15 @@
 {
   "name": "vue-entry-loader",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "webpack vue entry initialization template code",
   "keywords": [
+    "easyjs",
+    "easywebpack",
     "webpack",
     "vue",
     "entry",
-    "loader"
+    "loader",
+    "vue-entry-template"
   ],
   "dependencies": {
     "loader-utils": "^1.1.0"

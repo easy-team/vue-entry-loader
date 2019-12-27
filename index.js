@@ -9,9 +9,9 @@ module.exports = function(source) {
   const config = { codeSegment: '' };
   if (options.templateFile) {
     // fix windows path error
-    const templateFile = options.templateFile.replace(/\\/g, '\\\\');
-    const templateFilePath = path.resolve(this.rootContext, templateFile)
-    config.codeSegment = `import codeSegment from '${templateFilePath}'
+    const templateFilePath = path.resolve(this.rootContext, options.templateFile);
+    const nomarlizeTemplateFilePath = templateFilePath.replace(/\\/g, '\\\\');
+    config.codeSegment = `import codeSegment from '${nomarlizeTemplateFilePath}'
     codeSegment(Vue);`;
   }
   const loader = this.target === 'node' ? node : web;
